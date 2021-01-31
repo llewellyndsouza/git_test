@@ -8,3 +8,5 @@ THis was some more text added later. More commiting. YAY!
 We've merged it. Now I'm just adding a commit to see how things shape up from here on...
 
 So apparently, I'm on a branch i"m guessing
+
+SOme changes here as well
