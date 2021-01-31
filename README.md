@@ -6,3 +6,6 @@ Yay
 Commits lol
 
 Making some changes on readme and the other file.
+
+changes on main were done
+
